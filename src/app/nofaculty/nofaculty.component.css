@@ -1,0 +1,10 @@
+td {
+    padding: 11px;
+    /* border: 1px solid black; */
+    border-collapse: collapse;
+    border: 3px solid #1c87c9;
+        border-radius: 6px;
+  }
+  th {
+    border: 5px solid #095484;
+  }
